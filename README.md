@@ -1,2 +1,2 @@
-# tkinter
-Pruebas con tkinter
+# python
+Pruebas con python
